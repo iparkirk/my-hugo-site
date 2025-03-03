@@ -1,32 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Documentation on AI in Healthcare - all things considered</title>
-    <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Documentation on AI in Healthcare - all things considered</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introduction</title>
-      <link>http://localhost:1313/docs/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/introduction/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is the introduction to the project.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Why use Hugo?&lt;/li&gt;&#xA;&lt;li&gt;Features of Hugo-Book&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Setup</title>
-      <link>http://localhost:1313/docs/setup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/setup/</guid>
-      <description>&lt;h1 id=&#34;setup&#34;&gt;&#xA;  Setup&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#setup&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;prerequisites&#34;&gt;&#xA;  Prerequisites&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#prerequisites&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Install Hugo&lt;/li&gt;&#xA;&lt;li&gt;Install Hugo-Book theme&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;steps&#34;&gt;&#xA;  Steps&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#steps&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Clone the repository&lt;/li&gt;&#xA;&lt;li&gt;Install dependencies&lt;/li&gt;&#xA;&lt;li&gt;Run Hugo server&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>Deployment</title>
-      <link>http://localhost:1313/docs/deployment/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/deployment/</guid>
-      <description>&lt;h1 id=&#34;deployment&#34;&gt;&#xA;  Deployment&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#deployment&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;github-pages&#34;&gt;&#xA;  GitHub Pages&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#github-pages&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Build the site&lt;/li&gt;&#xA;&lt;li&gt;Push to &lt;code&gt;gh-pages&lt;/code&gt; branch&lt;/li&gt;&#xA;&lt;li&gt;Configure GitHub Pages&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;github-actions-optional&#34;&gt;&#xA;  GitHub Actions (Optional)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#github-actions-optional&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Automate deployment using GitHub Actions.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Documentation on AI in Healthcare - all things considered</title><link>https://iparkirk.github.io/my-hugo-site/docs/</link><description>Recent content in Documentation on AI in Healthcare - all things considered</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://iparkirk.github.io/my-hugo-site/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>https://iparkirk.github.io/my-hugo-site/docs/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iparkirk.github.io/my-hugo-site/docs/introduction/</guid><description>&lt;h1 id="introduction">
+ Introduction
+ &lt;a class="anchor" href="#introduction">#&lt;/a>
+&lt;/h1>
+&lt;p>This is the introduction to the project.&lt;/p>
+&lt;ul>
+&lt;li>Why use Hugo?&lt;/li>
+&lt;li>Features of Hugo-Book&lt;/li>
+&lt;/ul></description></item><item><title>Setup</title><link>https://iparkirk.github.io/my-hugo-site/docs/setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iparkirk.github.io/my-hugo-site/docs/setup/</guid><description>&lt;h1 id="setup">
+ Setup
+ &lt;a class="anchor" href="#setup">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="prerequisites">
+ Prerequisites
+ &lt;a class="anchor" href="#prerequisites">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Install Hugo&lt;/li>
+&lt;li>Install Hugo-Book theme&lt;/li>
+&lt;/ul>
+&lt;h2 id="steps">
+ Steps
+ &lt;a class="anchor" href="#steps">#&lt;/a>
+&lt;/h2>
+&lt;ol>
+&lt;li>Clone the repository&lt;/li>
+&lt;li>Install dependencies&lt;/li>
+&lt;li>Run Hugo server&lt;/li>
+&lt;/ol></description></item><item><title>Deployment</title><link>https://iparkirk.github.io/my-hugo-site/docs/deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iparkirk.github.io/my-hugo-site/docs/deployment/</guid><description>&lt;h1 id="deployment">
+ Deployment
+ &lt;a class="anchor" href="#deployment">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="github-pages">
+ GitHub Pages
+ &lt;a class="anchor" href="#github-pages">#&lt;/a>
+&lt;/h2>
+&lt;ol>
+&lt;li>Build the site&lt;/li>
+&lt;li>Push to &lt;code>gh-pages&lt;/code> branch&lt;/li>
+&lt;li>Configure GitHub Pages&lt;/li>
+&lt;/ol>
+&lt;h2 id="github-actions-optional">
+ GitHub Actions (Optional)
+ &lt;a class="anchor" href="#github-actions-optional">#&lt;/a>
+&lt;/h2>
+&lt;p>Automate deployment using GitHub Actions.&lt;/p></description></item></channel></rss>

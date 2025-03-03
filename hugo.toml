@@ -1,4 +1,4 @@
-baseURL = 'https://iparkirk.github.io/'
+baseURL = 'https://iparkirk.github.io/my-hugo-site/'
 languageCode = 'en-us'
 title = 'AI in Healthcare - all things considered'
 theme = 'hugo-book'
