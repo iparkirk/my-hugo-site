@@ -1,0 +1,21 @@
+baseURL = 'https://iparkirk.github.io/'
+languageCode = 'en-us'
+title = 'AI in Healthcare - all things considered'
+theme = 'hugo-book'
+
+[params]
+  BookTheme = 'light'
+  BookToC = true
+  BookSearch = true
+
+[[menu.after]]
+  name = "GitHub"
+  url = "https://github.com/iparkirk/my-hugo-site"
+  weight = 10
+
+[[menu.before]]
+  name = "Docs"
+  url = "/docs/"
+  weight = 1
+
+
