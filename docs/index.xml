@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Documentation on AI in Healthcare - all things considered</title><link>https://iparkirk.github.io/my-hugo-site/docs/</link><description>Recent content in Documentation on AI in Healthcare - all things considered</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://iparkirk.github.io/my-hugo-site/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>https://iparkirk.github.io/my-hugo-site/docs/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iparkirk.github.io/my-hugo-site/docs/introduction/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
+&lt;p>This is the introduction to the project.&lt;/p>
+&lt;ul>
+&lt;li>Why use Hugo?&lt;/li>
+&lt;li>Features of Hugo-Book&lt;/li>
+&lt;/ul></description></item><item><title>Setup</title><link>https://iparkirk.github.io/my-hugo-site/docs/setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iparkirk.github.io/my-hugo-site/docs/setup/</guid><description>&lt;h1 id="setup">Setup&lt;/h1>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;ul>
+&lt;li>Install Hugo&lt;/li>
+&lt;li>Install Hugo-Book theme&lt;/li>
+&lt;/ul>
+&lt;h2 id="steps">Steps&lt;/h2>
+&lt;ol>
+&lt;li>Clone the repository&lt;/li>
+&lt;li>Install dependencies&lt;/li>
+&lt;li>Run Hugo server&lt;/li>
+&lt;/ol></description></item><item><title>Deployment</title><link>https://iparkirk.github.io/my-hugo-site/docs/deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iparkirk.github.io/my-hugo-site/docs/deployment/</guid><description>&lt;h1 id="deployment">Deployment&lt;/h1>
+&lt;h2 id="github-pages">GitHub Pages&lt;/h2>
+&lt;ol>
+&lt;li>Build the site&lt;/li>
+&lt;li>Push to &lt;code>gh-pages&lt;/code> branch&lt;/li>
+&lt;li>Configure GitHub Pages&lt;/li>
+&lt;/ol>
+&lt;h2 id="github-actions-optional">GitHub Actions (Optional)&lt;/h2>
+&lt;p>Automate deployment using GitHub Actions.&lt;/p></description></item></channel></rss>
